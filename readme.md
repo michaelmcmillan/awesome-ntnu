@@ -27,3 +27,4 @@
 
 ## Tools 
 - [Frigg](https://frigg.io) - Frigg Continuous Integration 
+- [Holonet](https://github.com/webkom/holonet) - Mailing List Manager
