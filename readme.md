@@ -24,3 +24,6 @@
 ## Mad science
 - [oculus-fpv](https://github.com/Matsemann/oculus-fpv) - Code for TPG4850 eksperter i team vr-landsbyen
 - [Orakeltjenesten scripts](https://github.com/Orakeltjenesten/scripts) - Useful scripts for dealing with stuff like printers (the root of all evil).
+
+## Tools 
+- [Frigg](https://frigg.io) - Frigg Continuous Integration 
