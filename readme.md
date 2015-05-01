@@ -30,5 +30,6 @@
 
 ## Tools 
 - [Frigg](https://frigg.io) - Frigg Continuous Integration 
+- [Holonet](https://github.com/webkom/holonet) - Mailing List Manager
 - [census](https://github.com/webkom/census) - Simple server status reports
 - [chewie](https://github.com/webkom/chewie) - Project deployment tool
