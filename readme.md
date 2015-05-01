@@ -7,6 +7,7 @@
 - [Instabart](https://github.com/mortenvn/instabart) - Quick links for NTNU students on the fly.
 - [nyitrondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
 - [Poenggrenser](http://poenggrenser.no) - Finn poenggrenser på studier raskt.
+- [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
 
 ## Extensions
 - [Online Notifier](https://github.com/appKom/notifier) - Retrieves news, office status and cantina menus for students.
