@@ -5,7 +5,7 @@
 ## Websites
 - [Plan](https://github.com/adamcik/plan) - Timetable generator.
 - [Instabart](https://github.com/mortenvn/instabart) - Quick links for NTNU students on the fly.
-- [Poenggrenser](http://poenggrenser.no) - View what requirements a study in Norway has.
+- [Poenggrenser](http://poenggrenser.no) - View what requirements any study in Norway has.
 - [Ny i Trondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
 - [Poenggrenser](http://poenggrenser.no) - Finn poenggrenser på studier raskt.
 - [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
