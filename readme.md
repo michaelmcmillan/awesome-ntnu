@@ -8,6 +8,7 @@
 - [nyitrondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
 - [Poenggrenser](http://poenggrenser.no) - Finn poenggrenser på studier raskt.
 - [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
+- [Feedhuddler](https://feedhuddler.com) - Subscribe to RSS feeds and get them delivered to your getpocket account
 
 ## Extensions
 - [Online Notifier](https://github.com/appKom/notifier) - Retrieves news, office status and cantina menus for students.
