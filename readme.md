@@ -14,6 +14,9 @@
 - [Classmate](http://www.classmate.no) - Rate your classes and check out grade statistics.
 - [iBok](https://ibok.no/) - Save money by selling and buying second-hand textbooks
 - [Barteguiden](http://barteguiden.no/) - Browse concerts, nightlife, cultural events, sporting events etc. happening in Trondheim
+- [Talking next](http://talkingnext.io) - Ask entrepreneurs questions in a live video stream.
+- [feat.fm](http://feat.fm) - Live, interactive concerts with up-and-coming artists from all over the world!
+
 
 ## Extensions
 - [Online Notifier](https://github.com/appKom/notifier) - Retrieves news, office status and cantina menus for students.
