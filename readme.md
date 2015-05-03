@@ -7,7 +7,6 @@
 - [Instabart](https://github.com/mortenvn/instabart) - Quick links for NTNU students on the fly.
 - [Poenggrenser](http://poenggrenser.no) - View what requirements any study in Norway has.
 - [Ny i Trondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
-- [Poenggrenser](http://poenggrenser.no) - Finn poenggrenser på studier raskt.
 - [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
 - [Feedhuddler](https://feedhuddler.com) - Subscribe to RSS feeds and get them delivered to your getpocket account
 - [Memorizer](https://github.com/cXhristian/memorizer) - A simple webapp for memorizing multiple choice answers.
