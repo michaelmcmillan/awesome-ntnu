@@ -13,6 +13,8 @@
 - [Memorizer](https://github.com/cXhristian/memorizer) - A simple webapp for memorizing multiple choice answers.
 - [wikipendium](https://github.com/stianjensen/wikipendium.no) - Compendiums edited as a wiki.
 - [Classmate](http://www.classmate.no) - Rate your classes and check out grade statistics.
+- [iBok](https://ibok.no/) - Save money by selling and buying second-hand textbooks
+- [Barteguiden](http://barteguiden.no/) - Browse concerts, nightlife, cultural events, sporting events etc. happening in Trondheim
 
 ## Extensions
 - [Online Notifier](https://github.com/appKom/notifier) - Retrieves news, office status and cantina menus for students.
