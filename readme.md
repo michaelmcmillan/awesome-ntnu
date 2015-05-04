@@ -25,6 +25,7 @@
 ## iOS/Android apps 
 - [ActiGrid](http://www.actigrid.no) - Browse all the activities happening around you.
 - [Bartebuss](http://bartebuss.no) - Bartebuss provides timetables for AtB.
+- [Instabart app](https://github.com/mortenvn/instabart-apps) - Instabart for your phone.
 
 ## Tools 
 - [Frigg](https://frigg.io) - Frigg Continuous Integration 
