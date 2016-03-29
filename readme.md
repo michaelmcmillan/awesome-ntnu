@@ -4,7 +4,6 @@
 
 ## Websites
 - [Barteguiden](http://barteguiden.no/) - Browse concerts, nightlife, cultural events, sporting events etc. happening in Trondheim
-- [Classmate](http://www.classmate.no) - Rate your classes and check out grade statistics.
 - [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
 - [feat.fm](http://feat.fm) - Live, interactive concerts with up-and-coming artists from all over the world!
 - [Feedhuddler](https://feedhuddler.com) - Subscribe to RSS feeds and get them delivered to your getpocket account
