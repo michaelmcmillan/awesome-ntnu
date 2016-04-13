@@ -35,6 +35,7 @@
 - [Holonet](https://github.com/webkom/holonet) - Mailing List Manager
 
 ## Mad science
+- [emergency](https://github.com/BustByte/emergency.bustbyte.no) - A data extraction and analysis of all tweets from the Norwegian Police Service
 - [oculus-fpv](https://github.com/Matsemann/oculus-fpv) - Code for TPG4850 eksperter i team vr-landsbyen
 - [Orakeltjenesten scripts](https://github.com/Orakeltjenesten/scripts) - Useful scripts for dealing with stuff like printers (the root of all evil).
 - [vote](https://github.com/webkom/vote) - Digital voting system with keycards
