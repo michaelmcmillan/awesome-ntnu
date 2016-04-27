@@ -29,6 +29,7 @@
 ## Tools
 - [census](https://github.com/webkom/census) - Simple server status reports
 - [chewie](https://github.com/webkom/chewie) - Project deployment tool
+- [Doppins](https://doppins.com) - Dependency upgrades through GitHub pull requests
 - [emnebrowser](https://github.com/Aqwis/emnebrowser) - Web app for search, filtering and sorting courses.
 - [Frigg](https://frigg.io) - Frigg Continuous Integration 
 - [Holonet](https://github.com/webkom/holonet) - Mailing List Manager
