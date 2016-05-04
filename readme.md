@@ -23,6 +23,7 @@
 
 ## iOS/Android apps
 - [Bartebuss](http://bartebuss.no) - Bartebuss provides timetables for AtB.
+- [FuseBus](https://github.com/tmn/FuseBus) - A native iOS and Android app for real-time public transport information.
 - [Instabart app](https://github.com/mortenvn/instabart-apps) - Instabart for your phone.
 - [Tise](https://www.facebook.com/tiseapp) - Social marketplace where it is safe and easy to advertise your stuff.
 
