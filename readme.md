@@ -36,6 +36,7 @@
 - [Holonet](https://github.com/webkom/holonet) - Mailing List Manager
 
 ## Mad science
+- [Cross-adaptive audio](https://github.com/iver56/cross-adaptive-audio) - Evolving neural networks that process sound in interesting ways
 - [emergency](https://github.com/BustByte/emergency.bustbyte.no) - A data extraction and analysis of all tweets from the Norwegian Police Service
 - [oculus-fpv](https://github.com/Matsemann/oculus-fpv) - Code for TPG4850 eksperter i team vr-landsbyen
 - [Orakeltjenesten scripts](https://github.com/Orakeltjenesten/scripts) - Useful scripts for dealing with stuff like printers (the root of all evil).
