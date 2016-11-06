@@ -14,7 +14,6 @@
 - [Ny i Trondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
 - [Plan](https://github.com/adamcik/plan) - Timetable generator.
 - [Poenggrenser](http://poenggrenser.no) - View what requirements any study in Norway has.
-- [Talking next](http://talkingnext.io) - Ask entrepreneurs questions in a live video stream.
 - [wikipendium](https://github.com/stianjensen/wikipendium.no) - Compendiums edited as a wiki.
 
 ## Extensions
