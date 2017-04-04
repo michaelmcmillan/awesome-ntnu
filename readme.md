@@ -9,6 +9,7 @@
 - [Feedhuddler](https://feedhuddler.com) - Subscribe to RSS feeds and get them delivered to your getpocket account
 - [iBok](https://ibok.no/) - Save money by selling and buying second-hand textbooks
 - [Instabart](https://github.com/mortenvn/instabart) - Quick links for NTNU students on the fly.
+- [Kramster!](https://kramster.it) - A quiz app for preparing for multiple choice exams.
 - [mashtime.com](http://www.mashtime.com) - Entertain yourself with popular YouTube videos
 - [Memorizer](https://github.com/cXhristian/memorizer) - A simple webapp for memorizing multiple choice answers.
 - [Ny i Trondheim](https://github.com/webkom/nyitrondheim) - An introductory website for new Trondheim students.
