@@ -4,11 +4,12 @@
 
 ## Websites
 - [Barteguiden](http://barteguiden.no/) - Browse concerts, nightlife, cultural events, sporting events etc. happening in Trondheim
+- [DUiO](https://duio.no) - The startpage for UiO students.
 - [Epguides API](http://epguides.frecar.no) - Public API for epguides.com
 - [feat.fm](http://feat.fm) - Live, interactive concerts with up-and-coming artists from all over the world!
 - [Feedhuddler](https://feedhuddler.com) - Subscribe to RSS feeds and get them delivered to your getpocket account
 - [iBok](https://ibok.no/) - Save money by selling and buying second-hand textbooks
-- [Instabart](https://github.com/mortenvn/instabart) - Quick links for NTNU students on the fly.
+- [Instabart](https://instabart.no) - Quick links for NTNU students on the fly.
 - [Kramster!](https://kramster.it) - A quiz app for preparing for multiple choice exams.
 - [LittList](https://littlist.no/) - Generate bibliographies automatically.
 - [mashtime.com](http://www.mashtime.com) - Entertain yourself with popular YouTube videos
